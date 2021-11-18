@@ -37,7 +37,8 @@
       "title": "Guilherme",
       "role": "author"
     },
-    {"title": "André",
+    {
+      "title": "André",
       "role": "publisher"
     }
   ],
@@ -47,5 +48,12 @@
       "title": "Creative Commons Attribution 4.0",
       "path": "https://creativecommons.org/licenses/by/4.0/"
     }
-  ]
+  ],
+  "ckan_hosts": {
+    "https://homologa.cge.mg.gov.br": {
+      "hospital-setembro": "d99534f6-2300-4d3c-bd24-563c7fb31b48",
+      "hospital-outubro": "dc5e0a54-a36b-4f26-b8b4-8ae12dea9e6d",
+      "datapackage.json": "6230e243-414e-45cd-894d-b23ff985028b"
+    }
+  }
 }
