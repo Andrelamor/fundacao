@@ -29,6 +29,7 @@
   "name": "hospital",
   "title": "indicadores hospitalares",
   "description": "indicadores hospitalares da [FHEMIG](https://github.com/fhemig)",
+  "owner_org": "fundacao-hospitalar-do-estado-de-minas-gerais-fhemig",
   "homepage": "https://homologa.cge.mg.gov.br/organization/fundacao-hospitalar-do-estado-de-minas-gerais-fhemig",
   "version": "0.0.1",
   "contributors": [
